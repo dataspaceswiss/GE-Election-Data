@@ -4,7 +4,7 @@
 |--------------|--------|
 | party_number | string |
 | party_name   | string |
-| party_name   | string |
+| party_color  | string |
 
 
 ### districts
@@ -30,7 +30,7 @@
 
 | name | type |
 |--------------|--------|
-| division_number | string |
+| division_alias | string |
 | party_number | string |
 | votes | int64 |
 | percent | float64 |
@@ -40,14 +40,14 @@
 
 | name | type |
 |--------------|--------|
-| district_number | string |
 | division_alias | string |
 | division_number | string |
 | division_prot_id | string |
+| district_number | string |
+| district_id | int64 |
+| district_name | string |
 | party_number | string |
 | party_name | string |
 | party_color | string |
 | votes | int64 |
 | percent | float64 |
-| district_id | int64 |
-| district_name | string |
