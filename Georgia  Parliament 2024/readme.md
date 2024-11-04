@@ -1,0 +1,1 @@
+src: https://www.electoral.graphics/en-us/Elections-and-Datasets/Navigator-for-Elections/with-datasets/georgia-the-parliament-2024
